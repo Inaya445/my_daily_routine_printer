@@ -1,0 +1,6 @@
+print ("My Daily Routine")
+print ("I wake up at 6:00 AM")
+print ("I go to school at 7:30 AM")
+print ("I eat dinner in the evening")
+print ("I study for 2 hours at night")
+print ("Total study time =", 2 * 7)
